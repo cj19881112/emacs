@@ -22,4 +22,4 @@
  '(default ((t (:family "Consolas" :foundry "outline" :slant normal :weight normal :height 120 :width normal)))))
 (setq viper-mode t)
 (require 'viper)
-
+(setq auto-save-default nil)
